@@ -4,3 +4,6 @@ Want super cool logos for your copy of Football Manager? Look no further than th
 
 Exclusively created for [The XYZ](https://footballmanager.xyz).
 
+---
+
+### Please read INSTALLATION.md for instructions on how to install. 
