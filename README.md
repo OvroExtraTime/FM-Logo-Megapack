@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://footballmanager.xyz) [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://footballmanager.xyz) [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://footballmanager.xyz)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://footballmanager.xyz) [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://footballmanager.xyz) [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://footballmanager.xyz) [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 
 # Flat UI Logo-pack for Football Manager
 
