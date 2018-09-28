@@ -4,8 +4,9 @@
 
 Want super cool logos for your copy of Football Manager? Look no further than the Flat UI Logo-pack.
 
-Exclusively created for [The XYZ](https://footballmanager.xyz).
-
 ---
 
-### Please read INSTALLATION.md for instructions on how to install. 
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+
+## Current status: In development 
+We still have a long road ahead. We have to finish designed the logos and then we have to configure the .xml before you can use it on your copy of Football Manager. Why don't you Watch this repo to keep up with our progress?
